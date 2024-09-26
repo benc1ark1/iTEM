@@ -15,6 +15,7 @@ pluginManagement {
             url = "https://jitpack.io/"
         }
     }
+    
     resolutionStrategy {
         eachPlugin {
             // If the "net.minecraftforge.gradle.forge" plugin is requested we redirect it to asbyth's ForgeGradle fork
