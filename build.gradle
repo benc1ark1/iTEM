@@ -1,6 +1,7 @@
 // Using old gradle version for minecraft 1.8
 //file:noinspection GrDeprecatedAPIUsage
 //file:noinspection GroovyAssignabilityCheck
+
 buildscript {
     repositories {
         mavenCentral()
