@@ -5,6 +5,7 @@ option java_package = "club.thom.tem.models.messages";
 package serverMessage;
 
 
+
 message AuthData {
   // true if authenticated successfully, false otherwise.
   bool success = 1;
